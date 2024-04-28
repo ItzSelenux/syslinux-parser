@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define MAX_ENTRIES 16
+#define MAX_ENTRIES 65536
 #define MAX_LINE_LENGTH 512
 unsigned int entry_count;
 
